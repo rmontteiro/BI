@@ -1,9 +1,9 @@
 # BI DEVELOPER BOOTCAMP
 Business Intelligence Projects
 
-##Files used as part of BI Developer Bootcamp - IGTI, trainning
+## Files used as part of BI Developer Bootcamp - IGTI, trainning
 
-##CONTENTE
+## CONTENTE
 Module 2 - Challenge
 Instructions for  Module 2 challenge (Enunciado do Desafio - Módulo 2 - Botcamp Desenvolvedor(a) Business Intelligence)
 Database (ExtracaoVendasOnline.xlsx)
