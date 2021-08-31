@@ -5,9 +5,9 @@ Business Intelligence Projects
 
 ## CONTENT
 
-# MODULE 1
+### MODULE 1
 
-# MODULE 2
+### MODULE 2
 Module 2 - Practical Exercise
 Instructions for the exercise (Enunciado do Trabalho Prático - Módulo 2 - Business Intelligence.pdf)
 Database (Ziped file part 1 - Contoso.part1.rar
